@@ -16,5 +16,5 @@ supportLink = "https://github.com/kevinfosse/SUSLauncher/issues"
 
 [ejs.welcome]
 welcomeHeader = "WELCOME TO ORDINA"
-welcomeDescription = "Rejoins l'aventure"
-welcomeDescCTA = "Suspect"
+welcomeDescription = "Rejoins l'aventure magique sur"
+welcomeDescCTA = "ORDINA"
