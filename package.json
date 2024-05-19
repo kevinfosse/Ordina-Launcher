@@ -1,13 +1,13 @@
 {
   "name": "OrdinaLauncher",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "productName": "Ordina Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/) & Kevin",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/kevinfosse/SUSLauncher",
+  "homepage": "https://github.com/kevinfosse/Ordina-Launcher",
   "bugs": {
-    "url": "https://github.com/kevinfosse/SUSLauncher/issues"
+    "url": "https://github.com/kevinfosse/Ordina-Launcher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -43,6 +43,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kevinfosse/SUSLauncher"
+    "url": "git+https://github.com/kevinfosse/Ordina-Launcher"
   }
 }
